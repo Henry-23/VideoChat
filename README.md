@@ -47,7 +47,7 @@ $ git clone https://www.modelscope.cn/studios/AI-ModelScope/video_chat.git
 $ conda create -n metahuman python=3.10
 $ conda activate metahuman
 $ cd video_chat
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 ### 2. 权重下载
