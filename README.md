@@ -23,7 +23,7 @@
   
 * 端到端语音方案(MLLM-THG)：约20G，首包约7s（单张A100）。
   
-对于不需要使用端到端 MLLM 的开发者，可以选择仅包含级联方案的`cascade_only`分支。
+如果不需要使用端到端 MLLM，请选择仅包含级联方案的`cascade_only`分支。
 ```bash
 $ git checkout cascade_only
 ```
